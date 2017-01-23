@@ -11,6 +11,7 @@ import java.util.Scanner;
 /**
  *
  * @author yasin93
+ * First version code
  */
 public class Caller {
     public static final int SIP_PORT = 5060;
